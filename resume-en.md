@@ -32,6 +32,6 @@ Aug 2017 - Feb 2018
 
 ## Links
 
-Website: https://j0hnta.com/
-Github: https://github.com/johnta0
-Linkedin: https://www.linkedin.com/in/j0hnta/
+* Website: https://j0hnta.com/
+* Github: https://github.com/johnta0
+* Linkedin: https://www.linkedin.com/in/j0hnta/
