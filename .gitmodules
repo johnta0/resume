@@ -1,0 +1,12 @@
+[submodule "themes/winning"]
+	path = themes/winning
+	url = git@github.com:cssandstuff/hugo-theme-winning.git
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/wowchemy/starter-academic.git
+[submodule "themes/black-and-light"]
+	path = themes/black-and-light
+	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
+[submodule "themes/harbor"]
+	path = themes/harbor
+	url = https://github.com/matsuyoshi30/harbor.git

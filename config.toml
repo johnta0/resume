@@ -1,0 +1,35 @@
+baseURL = "https://resume.j0hnta.com/"
+title = "Resume/CV - j0hnta"
+author = "johnta0"
+description = "j0hnta's resume/cv"
+disableKinds = ["taxonomy", "term", "RSS"]
+enableEmoji = true
+googleAnalytics = ""  # add your tracking id
+
+defaultContentLanguage = "ja"
+enableRobotsTXT = true
+languageCode = "ja-JP"
+canonifyurls = true
+theme = "black-and-light"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "職務経歴書"
+  disableWebFonts = false
+
+# [[menu.main]]
+#     name = "About"
+#     url  = "/about"
+# [[menu.main]]
+#     name = ""
+#     url  = ""
+# [[menu.main]]
+#     name = "Resume"
+#     url  = "/resume"
+
+

@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/johnta0/resume.git",
+  "author": "johnta0 <22534726+johnta0@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-pdf": "^2.2.0"
+  }
+}
